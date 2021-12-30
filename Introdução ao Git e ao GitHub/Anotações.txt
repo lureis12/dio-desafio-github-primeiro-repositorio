@@ -1,3 +1,16 @@
 Link para download do Git: https://git-scm.com/downloads
 
 O GitBash é um console terminal extendido para otimizar o uso do Git;
+
+Comandos mais comuns: 
+git init - inicia o repositorio na maquina 
+git add - adiciona pastas e arquivos 
+git status - mostra o status 
+git config - seta as configuraçoes 
+git commit - arruma tudo e coloca um comentario
+git remote add origin "seu repositorio" - adiciona a origem 
+git push origin main - empurra o codigo para o repositorio remoto
+git pull origin main - puxa o codigo para maquina
+
+ssh-keygen -t ed 25519 - c "seu email" - cria chave ssh
+
